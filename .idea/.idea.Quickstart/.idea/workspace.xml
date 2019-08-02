@@ -58,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Api/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+            <state relative-caret-position="306">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding>
                 <marker date="1564710465186" expanded="false" signature="6:249" ph="..." />
                 <marker date="1564710465186" expanded="true" signature="264:1244" ph="{...}" />
@@ -71,6 +71,21 @@
                 <marker date="1564710465186" expanded="true" signature="588:990" ph="{...}" />
                 <marker date="1564710465186" expanded="true" signature="789:978" ph="{...}" />
                 <marker date="1564710465186" expanded="true" signature="1153:1236" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Api/Controllers/IdentityController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding>
+                <marker date="1564710668134" expanded="true" signature="6:92" ph="..." />
+                <marker date="1564710668134" expanded="true" signature="119:390" ph="{...}" />
+                <marker date="1564710668134" expanded="true" signature="214:388" ph="{...}" />
+                <marker date="1564710668134" expanded="true" signature="273:382" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -102,6 +117,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/IdentityServer/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -116,9 +134,9 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/395126d6-3df2-4262-b0bf-83d09334cbad/console.sql" />
         <option value="$PROJECT_DIR$/src/IdentityServer/Config.cs" />
         <option value="$PROJECT_DIR$/src/Api/Api.csproj" />
-        <option value="$PROJECT_DIR$/src/Api/Controllers/IdentityController.cs" />
         <option value="$PROJECT_DIR$/src/Api/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/src/Api/Startup.cs" />
+        <option value="$PROJECT_DIR$/src/Api/Controllers/IdentityController.cs" />
       </list>
     </option>
   </component>
@@ -126,6 +144,7 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -290,12 +309,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564704037321</updated>
-      <workItem from="1564704040429" duration="3539000" />
+      <workItem from="1564704040429" duration="3976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3539000" />
+    <option name="totallyTimeSpent" value="3976000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -308,10 +327,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15724815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15724815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -320,7 +338,7 @@
       <window_info anchor="bottom" id="Build" weight="0.3298647" />
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="REST Client" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49938574" visible="true" weight="0.3298647" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49938574" visible="true" weight="0.3298647" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5006142" side_tool="true" weight="0.3298647" />
       <window_info anchor="bottom" id="Database Console" sideWeight="0.49938574" weight="0.31425598" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -414,18 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Api/Controllers/IdentityController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <marker date="1564709340943" expanded="true" signature="6:50" ph="..." />
-            <marker date="1564709340943" expanded="true" signature="77:308" ph="{...}" />
-            <marker date="1564709340943" expanded="true" signature="132:306" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Api/appsettings.Development.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -479,8 +485,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Api/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        <state relative-caret-position="306">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
             <marker date="1564710465186" expanded="false" signature="6:249" ph="..." />
             <marker date="1564710465186" expanded="true" signature="264:1244" ph="{...}" />
@@ -489,6 +495,19 @@
             <marker date="1564710465186" expanded="true" signature="588:990" ph="{...}" />
             <marker date="1564710465186" expanded="true" signature="789:978" ph="{...}" />
             <marker date="1564710465186" expanded="true" signature="1153:1236" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Api/Controllers/IdentityController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <marker date="1564710668134" expanded="true" signature="6:92" ph="..." />
+            <marker date="1564710668134" expanded="true" signature="119:390" ph="{...}" />
+            <marker date="1564710668134" expanded="true" signature="214:388" ph="{...}" />
+            <marker date="1564710668134" expanded="true" signature="273:382" ph="{...}" />
           </folding>
         </state>
       </provider>
