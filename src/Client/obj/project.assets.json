@@ -686,29 +686,35 @@
     ]
   },
   "packageFolders": {
-    "/Users/kane/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\kprice\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kane/Projects/quickstart/src/Client/Client.csproj",
+      "projectUniqueName": "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "/Users/kane/Projects/quickstart/src/Client/Client.csproj",
-      "packagesPath": "/Users/kane/.nuget/packages/",
-      "outputPath": "/Users/kane/Projects/quickstart/src/Client/obj/",
+      "projectPath": "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\Client\\Client.csproj",
+      "packagesPath": "C:\\Users\\kprice\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/kane/.config/NuGet/NuGet.Config"
+        "C:\\Users\\kprice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/relias-services/auth/013b9ec0-42f4-4e9f-9872-8f06441f54a0/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {

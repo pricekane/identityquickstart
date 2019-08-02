@@ -1,0 +1,17 @@
+C:\Users\kprice\Projects\identityquickstart\src\Client2\bin\Debug\netcoreapp2.2\Client2.deps.json
+C:\Users\kprice\Projects\identityquickstart\src\Client2\bin\Debug\netcoreapp2.2\Client2.runtimeconfig.json
+C:\Users\kprice\Projects\identityquickstart\src\Client2\bin\Debug\netcoreapp2.2\Client2.runtimeconfig.dev.json
+C:\Users\kprice\Projects\identityquickstart\src\Client2\bin\Debug\netcoreapp2.2\Client2.dll
+C:\Users\kprice\Projects\identityquickstart\src\Client2\bin\Debug\netcoreapp2.2\Client2.pdb
+C:\Users\kprice\Projects\identityquickstart\src\Client2\bin\Debug\netcoreapp2.2\IdentityModel.dll
+C:\Users\kprice\Projects\identityquickstart\src\Client2\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\kprice\Projects\identityquickstart\src\Client2\bin\Debug\netcoreapp2.2\IdentityModel.pdb
+C:\Users\kprice\Projects\identityquickstart\src\Client2\bin\Debug\netcoreapp2.2\IdentityModel.xml
+C:\Users\kprice\Projects\identityquickstart\src\Client2\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Users\kprice\Projects\identityquickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.csprojAssemblyReference.cache
+C:\Users\kprice\Projects\identityquickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.csproj.CoreCompileInputs.cache
+C:\Users\kprice\Projects\identityquickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.AssemblyInfoInputs.cache
+C:\Users\kprice\Projects\identityquickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.AssemblyInfo.cs
+C:\Users\kprice\Projects\identityquickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.csproj.CopyComplete
+C:\Users\kprice\Projects\identityquickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.dll
+C:\Users\kprice\Projects\identityquickstart\src\Client2\obj\Debug\netcoreapp2.2\Client2.pdb

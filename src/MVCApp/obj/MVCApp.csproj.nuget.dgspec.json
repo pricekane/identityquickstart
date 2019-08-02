@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\MVCApp\\MVCApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\MVCApp\\MVCApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\MVCApp\\MVCApp.csproj",
+        "projectName": "MVCApp",
+        "projectPath": "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\MVCApp\\MVCApp.csproj",
+        "packagesPath": "C:\\Users\\kprice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\MVCApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kprice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/relias-services/auth/013b9ec0-42f4-4e9f-9872-8f06441f54a0/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "IdentityServer4.AccessTokenValidation": {
+              "target": "Package",
+              "version": "[3.0.0-preview.2, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.CookiePolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

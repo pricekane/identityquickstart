@@ -1,29 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kane/Projects/quickstart/src/Api/Api.csproj": {}
+    "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\api\\Api.csproj": {}
   },
   "projects": {
-    "/Users/kane/Projects/quickstart/src/Api/Api.csproj": {
+    "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kane/Projects/quickstart/src/Api/Api.csproj",
+        "projectUniqueName": "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "/Users/kane/Projects/quickstart/src/Api/Api.csproj",
-        "packagesPath": "/Users/kane/.nuget/packages/",
-        "outputPath": "/Users/kane/Projects/quickstart/src/Api/obj/",
+        "projectPath": "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\api\\Api.csproj",
+        "packagesPath": "C:\\Users\\kprice\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/kane/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kprice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/relias-services/auth/013b9ec0-42f4-4e9f-9872-8f06441f54a0/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {

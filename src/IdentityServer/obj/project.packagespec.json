@@ -1,19 +1,22 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/kane/Projects/quickstart/src/IdentityServer/IdentityServer.csproj",
+    "projectUniqueName": "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\IdentityServer\\IdentityServer.csproj",
     "projectName": "IdentityServer",
-    "projectPath": "/Users/kane/Projects/quickstart/src/IdentityServer/IdentityServer.csproj",
-    "outputPath": "/Users/kane/Projects/quickstart/src/IdentityServer/obj/",
+    "projectPath": "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\IdentityServer\\IdentityServer.csproj",
+    "outputPath": "C:\\Users\\kprice\\Projects\\identityquickstart\\src\\IdentityServer\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.1"
     ],
     "sources": {
-      "https://api.nuget.org/v3/index.json": {}
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {},
+      "https://www.myget.org/F/relias-services/auth/013b9ec0-42f4-4e9f-9872-8f06441f54a0/api/v3/index.json": {}
     },
     "frameworks": {
       "netcoreapp2.1": {
