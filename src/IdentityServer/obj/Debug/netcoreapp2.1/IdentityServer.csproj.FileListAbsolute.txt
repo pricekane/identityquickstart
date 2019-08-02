@@ -1,0 +1,14 @@
+/Users/kane/Projects/quickstart/src/IdentityServer/bin/Debug/netcoreapp2.1/IdentityServer.deps.json
+/Users/kane/Projects/quickstart/src/IdentityServer/bin/Debug/netcoreapp2.1/IdentityServer.runtimeconfig.json
+/Users/kane/Projects/quickstart/src/IdentityServer/bin/Debug/netcoreapp2.1/IdentityServer.runtimeconfig.dev.json
+/Users/kane/Projects/quickstart/src/IdentityServer/bin/Debug/netcoreapp2.1/IdentityServer.dll
+/Users/kane/Projects/quickstart/src/IdentityServer/bin/Debug/netcoreapp2.1/IdentityServer.pdb
+/Users/kane/Projects/quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.csprojAssemblyReference.cache
+/Users/kane/Projects/quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.csproj.CoreCompileInputs.cache
+/Users/kane/Projects/quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.RazorAssemblyInfo.cache
+/Users/kane/Projects/quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.RazorAssemblyInfo.cs
+/Users/kane/Projects/quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.AssemblyInfoInputs.cache
+/Users/kane/Projects/quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.AssemblyInfo.cs
+/Users/kane/Projects/quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.RazorTargetAssemblyInfo.cache
+/Users/kane/Projects/quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.dll
+/Users/kane/Projects/quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.pdb
